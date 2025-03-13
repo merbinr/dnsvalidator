@@ -1,4 +1,4 @@
-Name:  dnsvalidator Dockerbuild
+name:  dnsvalidator Dockerbuild
 
 on:
   push:
